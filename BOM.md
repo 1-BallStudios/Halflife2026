@@ -19,7 +19,7 @@
 | [1.3" OLED Display](https://www.aliexpress.com/item/1005006862867338.html) | Screen | 1 | $0.99 | $0.99 | [AliExpress](https://www.aliexpress.com/item/1005006862867338.html) |
 | [MPU6050 Module](https://www.aliexpress.com/w/wholesale-MPU6050.html) | Movement Sensor i think | 1 | $1.09 | $1.09 | [AliExpress](https://www.aliexpress.com/w/wholesale-MPU6050.html) |
 | **Parts subtotal** | — | — | — | **$6.64** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$6.64** | — |
+| **Tax & shipping** | — | — | — | **$5.43** | — |
+| **Total** | — | — | — | **$12.07** | — |
 
-$23.36 left of the tier's funding.
+$17.93 left of the tier's funding.
