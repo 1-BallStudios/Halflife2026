@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15.13h | 9 |
+| Week 1 | Tier 1 | 11.23h | 9 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 6. [2026-10-11: I'M DONE WITH WHAT I NEED TO DO!!!](#2026-10-11-im-done-with-what-i-need-to-do)
 7. [2026-10-11: Hello! I decided to do more customization stuff now that I'm done with the main thing. I'm not doin' timelapses because most of my later sessions are not as productive, but whatever. I added some imag](#2026-10-11-hello-i-decided-to-do-more-customization-stuff-no)
 8. [2026-10-11: Hello. I decided to do a bit more customization and final things before I submit so that I can be on pace for my goal. Again, this was less productive than my first ones, maybe even less than my other](#2026-10-11-hello-i-decided-to-do-a-bit-more-customization-an)
-9. [2026-11-01: That was a mess and I think I actually spent quite a lot of time on this. First, the PCB was of a different design so I had to change the whole CAD which I haven't completely done yet. I'm almost out](#2026-11-01-that-was-a-mess-and-i-think-i-actually-spent-quit)
+9. [2026-11-01: oops i have no idea why i put this in the wrong project.](#2026-11-01-oops-i-have-no-idea-why-i-put-this-in-the-wrong-p)
 
 ## Design
 
@@ -104,18 +104,12 @@ Hello. I decided to do a bit more customization and final things before I submit
 
 ![Screenshot 2026-10-10 091552](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/890be7b68299e137a8e8d5fbf37d16d330abcdbaced7031931297227eea7fb09.png)
 
-### 2026-11-01: That was a mess and I think I actually spent quite a lot of time on this. First, the PCB was of a different design so I had to change the whole CAD which I haven't completely done yet. I'm almost out
+### 2026-11-01: oops i have no idea why i put this in the wrong project.
 
-**4h**
+**0.1h**
 
-That was a mess and I think I actually spent quite a lot of time on this. First, the PCB was of a different design so I had to change the whole CAD which I haven't completely done yet. I'm almost out of time so am not going to finish lol. One GitHub update and Arduino Firmware later, I'm almost done!
+oops i have no idea why i put this in the wrong project.                                                                                                                                                       i have to end this :(
 
-![Screenshot 2026-11-01 182636](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/d638ac5d79ccc69d1305776e01ff80e02cdbf630d22c68e025b03475b0e5c5e5.png)
+![Screenshot 2026-10-10 091552](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/890be7b68299e137a8e8d5fbf37d16d330abcdbaced7031931297227eea7fb09.png)
 
-![Screenshot 2026-11-01 181401](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/62e77f424c2d42935e379c0c065a632319261e76cf07eae29325219628c85c76.png)
-
-![Screenshot 2026-11-01 181356](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/f0dc376d34e66b15650c1fcd4cb2514b0f337216abcecd48d786b881d2b3f46e.png)
-
-![Screenshot 2026-11-01 181352](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/72ca32411df3a03f4336f14e95b553f0dde28103e9e01e7eea05dad4d9bb2c20.png)
-
-![Screenshot 2026-11-01 181339](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/73149eee1b2e6028cf5887fd8a1f41e635c633af42cefc880f96d67cce22b6c6.png)
+![Screenshot 2026-10-11 085139](https://halflife.hackclub-assets.com/sessions/uieyT1fRQrszPFp1vgkVEujJw1DfYLBe/7c5ffdfca3ebc667824e4a4c4667af6f3080c1a95dac74d282ac2a39c2cd64dc.png)
